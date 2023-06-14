@@ -29,5 +29,6 @@
     - [ ruanyifeng ](https://ruanyifeng.com)
     - [yunfeng](https://blog.codingnow.com)
     - [小明明](https://www.dongwm.com/)
+    - [博客大联盟](http://techblog.pub/)
 
 
